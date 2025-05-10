@@ -1,1 +1,1 @@
-# jango-lab9
+# django-lab9
